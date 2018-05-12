@@ -1,0 +1,29 @@
+_repo: The-Lost-FaithAnd-Difficulties-of-the-Bible-as-Tested-by-the-Laws-of-Evidence_43328
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43328-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Childs, Thomas S. (Thomas Spencer)
+    aliases:
+    - Childs, T. S. (Thomas Spencer)
+    - Childs, Thos. S. (Thomas Spencer)
+    birthdate: 1825
+    deathdate: 1914
+    gutenberg_agent_id: '42140'
+    url: http://www.gutenberg.org/2009/agents/42140
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Bible and science'
+title: The Lost Faith, and Difficulties of the Bible, as Tested by the Laws of Evidence
+url: http://www.gutenberg.org/ebooks/43328
