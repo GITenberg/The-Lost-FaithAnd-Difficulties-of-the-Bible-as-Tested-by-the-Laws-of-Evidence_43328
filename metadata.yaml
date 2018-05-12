@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42140'
     url: http://www.gutenberg.org/2009/agents/42140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43328#The-Lost-FaithAnd-Difficulties-of-the-Bible-as-Tested-by-the-Laws-of-Evidence
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
